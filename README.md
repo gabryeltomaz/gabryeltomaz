@@ -12,6 +12,8 @@ Sou estudante de Engenharia da computação no Instituto Federal do Triangulo Mi
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1712760949)
 
 ![Gabryel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabryeltomaz&show_icons=true&theme=dracula)
+![analise](https://github-readme-stats.vercel.app/api/top-langs/?username=gabryeltomaz&theme=dracula)
+
 
 
 ## Tecnologias 🖥️💻👨‍💻
@@ -27,4 +29,3 @@ Sou estudante de Engenharia da computação no Instituto Federal do Triangulo Mi
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.rdocumentation.org/)
 [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
 
-![analise](https://github-readme-stats.vercel.app/api/top-langs/?username=gabryeltomaz&theme=dracula)

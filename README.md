@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Sou estudante de Engenharia da computação no Instituto Federal do Triangulo Mineiro (IFTM) em Uberaba, moro em Uberlândia - MG apaixonado por programação e buscando uma oportunidade de mostrar meu talento na área.
+Sou estudante de Ciência da Computação na Universidade Federal de Uberlândia, moro em Uberlândia - MG, apaixonado por programação e buscando uma oportunidade de mostrar meu talento na área.
 
 
 ## Redes sociais📱📧🗣️
